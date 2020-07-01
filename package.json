@@ -9,12 +9,12 @@
     "url": "https://github.com/Phrogz/context-blender"
   },
   "bugs": "http://github.com/Phrogz/context-blender/issues",
-  "license" : "MIT",
+  "license": "MIT",
   "dependencies": {
-    "canvas": "~1.4"
+    "canvas": "^2.6.1"
   },
   "devDependencies": {
-    "sprintf": "~0.1"
+    "sprintf-js": "^1.1.2"
   },
   "readmeFilename": "README.md",
   "keywords": [
